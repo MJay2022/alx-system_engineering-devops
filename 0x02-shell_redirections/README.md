@@ -14,3 +14,4 @@
 11. 11-redirectories is a script that counts the number of directories and sub-directories in the current directory.
 12. 12-newest_files is a script that displays the 10 newest files in the current directory.
 13. 13-unique is a script that takes a list of words as input and prints only words that appear exactly once.
+14. 14-findthatword displays lines containing the pattern “root” from the file /etc/passwd
