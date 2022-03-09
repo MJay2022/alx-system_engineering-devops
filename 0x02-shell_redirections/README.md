@@ -13,3 +13,4 @@
 10. 10-no_more_js  is a script that deletes all the regular files (not the directories) with a .js extension that are present in the current directory and all its subfolders.
 11. 11-redirectories is a script that counts the number of directories and sub-directories in the current directory.
 12. 12-newest_files is a script that displays the 10 newest files in the current directory.
+13. 13-unique is a script that takes a list of words as input and prints only words that appear exactly once.
